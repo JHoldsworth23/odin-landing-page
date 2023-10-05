@@ -26,26 +26,6 @@ body {
     gap: 20px;
 }
 
-#introduction {
-    display: flex;
-    align-items: center;
-    padding: 0 20% 4em;
-}
-
-.opening {
-    width: 50%;
-}
-
-.main-text {
-    font-size: 48px;
-    font-weight: bolder;
-    margin-bottom: 10px;
-}
-
-.secondary-text {
-    font-size: 18px;
-}
-
 a {
     text-decoration: none;
     color: #E5E7EB;
@@ -53,6 +33,43 @@ a {
 
 a:hover {
     color: beige;
+}
+
+#introduction {
+    display: flex;
+    align-items: center;
+    padding: 0 20% 4em;
+    gap: 50px;
+}
+
+.opening {
+    flex: 1;
+    width: 50%;
+}
+
+.main-text {
+    font-size: 48px;
+    font-weight: bolder;
+    margin: 0 0 10px;
+}
+
+.secondary-text {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.placeholder {
+    flex: 1;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(79, 85, 97);
+}
+
+.placeholder p {
+    padding: 100px 0;
+    margin: 0;
 }
 
 /* FOOTER SECTION */
