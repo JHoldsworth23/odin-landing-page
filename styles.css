@@ -3,6 +3,7 @@ body {
     margin: 0;
 }
 
+/* HEADER SECTION */
 #header, #footer {
     background-color: #1F2937;
     color: #F9FAF8;
@@ -43,7 +44,6 @@ body {
 
 .secondary-text {
     font-size: 18px;
-    margin: 0 0 10px;
 }
 
 a {
@@ -53,4 +53,10 @@ a {
 
 a:hover {
     color: beige;
+}
+
+/* FOOTER SECTION */
+#footer {
+    text-align: center;
+    padding: 14px;
 }
