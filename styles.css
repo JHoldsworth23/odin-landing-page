@@ -89,6 +89,20 @@ a:hover {
     margin: 0;
 }
 
+/* INFORMATION SECTION */
+.info-header {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.info-box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 /* FOOTER SECTION */
 #footer {
     text-align: center;
