@@ -50,6 +50,20 @@ a:hover {
     width: 50%;
 }
 
+.sign-up {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    text-align: center;
+    padding: 6px 24px;
+    border: 0;
+    border-radius: 8px;
+}
+
+.sign-up:hover {
+    background-color: #F9FAF8;
+    color: #3882F6;
+}
+
 .main-text {
     font-size: 48px;
     font-weight: bolder;
