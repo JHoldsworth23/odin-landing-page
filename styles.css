@@ -167,6 +167,16 @@ a:hover {
     padding: 30px 0;
 }
 
+.call-to-action-text {
+    font-size: 22px;
+    margin-bottom: 0;
+}
+
+.sign-up-text {
+    font-size: 18px;
+    margin-top: 2px;
+}
+
 /* FOOTER SECTION */
 #footer {
     text-align: center;
