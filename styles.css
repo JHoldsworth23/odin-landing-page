@@ -97,7 +97,7 @@ a:hover {
 .info-header {
     text-align: center;
     font-size: 36px;
-    font-weight: bolder;
+    font-weight: 700;
     color: #1F2937;
 }
 
@@ -126,6 +126,20 @@ a:hover {
     font-size: 16px;
     text-align: center;
     width: 150px;
+}
+
+/* QUOTE SECTION */
+#quote {
+    background-color: #E5E7EB;
+    padding: 8em 30%;
+}
+
+.testimonial {
+    color: #1F2937;
+    width: 820px;
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
 }
 
 /* FOOTER SECTION */
