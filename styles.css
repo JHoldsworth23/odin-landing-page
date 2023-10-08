@@ -177,6 +177,21 @@ a:hover {
     margin-top: 2px;
 }
 
+.sign-up-inverse {
+    color: #F9FAF8;
+    background-color: #3882F6;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 8px 32px;
+    border: 2px solid #F9FAF8;
+    border-radius: 10px;
+}
+
+.sign-up-inverse:hover {
+    color: #3882F6;
+    background-color: #F9FAF8;
+}
+
 /* FOOTER SECTION */
 #footer {
     text-align: center;
